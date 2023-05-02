@@ -8,10 +8,10 @@ the ultimate smoothness.
 
 There are multiple ways to open your file or folder to ensure that you get your setup in minimum steps:
 
-`n                               ` <br> opens fzf interface and opens selection from fzf in nvim. <br> <br>
-`n [search-pattern]              ` <br> opens fzf with search-pattern and opens selection in nvim. <br> <br>
-`n [folder-name] [search-pattern]` <br> zoxides into folder-name and opens fzf result in nvim. <br> <br>
-`n [folder-name] .               ` <br> zoxides into folder-name and opens nvim in that directory.
+`n                               ` <br> opens fzf interface and opens selected file from fzf in your editor. <br> <br>
+`n [search-pattern]              ` <br> opens fzf with search-pattern and opens selected file in your editor. <br> <br>
+`n [folder-name] [search-pattern]` <br> zoxides into folder-name and opens fzf result in your editor. <br> <br>
+`n [folder-name] .               ` <br> zoxides into folder-name and opens that directory in your editor.
 
 ## Install
 
@@ -49,5 +49,5 @@ or not since those who don't use `TMUX` might find this an overkill.
 
 ## Support
 
-Please support the project by giving this repo a :star: and by sharing it
-with other users. PRs are highly encouraged.
+You can support this project by giving this repo a :star2: and by sharing it
+with peers :two_men_holding_hands: <br> PRs are highly encouraged.
