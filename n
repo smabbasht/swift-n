@@ -1,12 +1,5 @@
 #!/usr/bin/env bash
 
-# if [ -z "$TMUX" ]; then
-#     kitty @ set-spacing padding=0
-# fi
-#
-
-
-
 function n {
     local editor="nvim"
     local directory=""
@@ -38,7 +31,3 @@ function n {
 
 }
 n "$@"
-
-# if [ -z "$TMUX" ]; then
-#     kitty @ set-spacing padding=default
-# fi
