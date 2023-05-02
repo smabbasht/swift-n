@@ -17,16 +17,16 @@ There are multiple ways to open your file or folder to ensure that you get your 
 
 There are a few easy steps to install the tool which are as follows: <br>
 
-1.  Clone the repository in your preffered directory:
+1.  Clone the repository in your preferred directory:
 
 <!---->
 
     git clone https://github.com/smabbasht/swift-n
 
 2.  Rename variable editor in the script `n`. The editor is by default set to
-    `nvim`, you could rename it as you like for e.g: `vim`, `code`, `clion` etc.
+    `nvim`, you can rename it as per you need for e.g: `vim`, `code`, `clion` etc.
 3.  Add script `n` to your path:
-    You will have to add the script `n` to your path in order to use directly use
+    You will have to add the script `n` to your path in order to directly use
     it from anywhere:
     *   If you use `Fish`, add this in your `~/.config/fish/config.fish`:
     ```fish
@@ -50,4 +50,4 @@ or not since those who don't use `TMUX` might find this an overkill.
 ## Support
 
 You can support this project by giving this repo a :star2: and by sharing it
-with peers :two_men_holding_hands: <br> PRs are highly encouraged.
+with peers :two_men_holding_hands: <br> PRs are highly encouraged :raised_hands:
