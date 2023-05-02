@@ -13,6 +13,22 @@ There are multiple ways to open your file or folder to ensure that you get your 
 `n [folder-name] [search-pattern]` <br> zoxides into folder-name, opens fzf interface in that directory and opens the selection from fzf in your editor. <br> <br>
 `n [folder-name] .               ` <br> zoxides into folder-name and opens that directory in your editor.
 
+## Pre-requisites:
+There are two tools that need to be installed in order for `Swift n` to work; `fzf` and `zoxide`. Both the tools can be found in most linux distributions' official package repositories. For popular distributions; the installation commands are as follow:
+- For Arch Linux & Arch-Based Distros:
+```
+sudo pacman -S fzf zoxide
+```
+- For Debian and Debian-Based Distros:
+```
+sudo apt install fzf zoxide
+```
+- For Fedora
+```
+sudo dnf install fzf zoxide
+```
+> Github Repositories: [fzf](https://github.com/junegunn/fzf) [zoxide](https://github.com/ajeetdsouza/zoxide)
+
 ## Install
 
 There are a few easy steps to install the tool which are as follows: <br>
