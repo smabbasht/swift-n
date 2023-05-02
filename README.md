@@ -1,16 +1,16 @@
 # The Swift n
 
-The `Swift n` is a nice little tool to open files or directory in your favourite editor in a blazingly fast way. <br>
+The `Swift n` is a nice little tool to open files or directory in your favourite editor in a blazingly fast way :zap: <br>
 It basically allows you to find fuzzily the file and zoxide into the relevant directory if provided giving you workflow
-the ultimate smoothness.
+the ultimate smoothness :ocean:
 
 ## Usage
 
 There are multiple ways to open your file or folder to ensure that you get your setup in minimum steps:
 
 `n                               ` <br> opens fzf interface and opens selected file from fzf in your editor. <br> <br>
-`n [search-pattern]              ` <br> opens fzf with search-pattern and opens selected file in your editor. <br> <br>
-`n [folder-name] [search-pattern]` <br> zoxides into folder-name and opens fzf result in your editor. <br> <br>
+`n [search-pattern]              ` <br> opens fzf with search-pattern as query and opens selected file from fzf in your editor. <br> <br>
+`n [folder-name] [search-pattern]` <br> zoxides into folder-name, opens fzf interface in that directory and opens the selection from fzf in your editor. <br> <br>
 `n [folder-name] .               ` <br> zoxides into folder-name and opens that directory in your editor.
 
 ## Install
