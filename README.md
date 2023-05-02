@@ -15,6 +15,8 @@ There are multiple ways to open your file or folder to ensure that you get your 
 
 ## Pre-requisites:
 There are two tools that need to be installed in order for `Swift n` to work; `fzf` and `zoxide`. Both the tools can be found in most linux distributions' official package repositories. For popular distributions; the installation commands are as follow:
+> Github Repositories: | [fzf](https://github.com/junegunn/fzf) | [zoxide](https://github.com/ajeetdsouza/zoxide) |
+
 - For Arch Linux & Arch-Based Distros:
 ```
 sudo pacman -S fzf zoxide
@@ -27,7 +29,6 @@ sudo apt install fzf zoxide
 ```
 sudo dnf install fzf zoxide
 ```
-> Github Repositories: [fzf](https://github.com/junegunn/fzf) [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ## Install
 
